@@ -40,7 +40,7 @@ Try to put a blank line before...
 ...and after a horizontal rule.
 
 | Syntax      | Description | Test Text     |
-| ----------- | ----------- |
+| :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
 
